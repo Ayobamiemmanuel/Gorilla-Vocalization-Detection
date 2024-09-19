@@ -1,9 +1,3 @@
-# Gorilla-Vocalization-Detection
-
-Sure! Here’s the updated `README.md` without the script descriptions section:
-
----
-
 # Gorilla Vocalization Detection Using Machine Learning Models
 
 ## Project Overview
