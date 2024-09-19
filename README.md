@@ -84,4 +84,4 @@ Contributions are welcome! Submit pull requests or open issues to contribute to 
 
 ## Contact
 
-For any questions or comments, please reach out to [ayobamiomolusi@gmail.com].
+For any questions or comments, please reach out to [emmanuel.omolusi@um6p.ma].
